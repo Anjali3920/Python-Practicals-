@@ -29,3 +29,12 @@ b. Generate all prime numbers till 'n' Code eval(input("enter value")) for num i
 else: print(num, end=',')
 
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
+
+
+
+
+
+
+# program 13
+## WAP to accept a name from the user .Raise and handle appropriate exceptions(s) if the text entered by the user contains digits and/or special characters .
+## code 
