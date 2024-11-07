@@ -39,7 +39,9 @@ oprations:
 (c.) concatenate a tuple t2 = (11, 13, 15) with t1.
 (d.) Return maximmum and minimum from this given tuple.
 ![WhatsApp Image 2024-11-07 at 8 24 20 PM](https://github.com/user-attachments/assets/d94f563a-b46c-4c1c-a873-400a62b12f77)
-"C:\Users\acer\Downloads\WhatsApp Image 2024-11-07 at 8.31.56 PM.jpeg"
+
+![WhatsApp Image 2024-11-07 at 8 31 56 PM](https://github.com/user-attachments/assets/63c82aae-dba0-4a2f-8946-e0ee7af22536)
+
 # program 12
 ## WAP to accept a name from the user .Raise and handle appropriate exceptions(s) if the text entered by the user contains digits and/or special characters .
 ## code 
