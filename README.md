@@ -31,12 +31,25 @@ else: print(num, end=',')
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
 
 
+# program 11
+## Consider a tuple t1 = (1, 2, 5, 7, 9, 2, 4, 6, 8, 10) . WAP to perform following
+oprations:
+(a.) Print half the values of the tuple in one line and other half in the other next line. 
+(b.) Print another tuple whose values are even numbers in the given tuple.
+(c.) concatenate a tuple t2 = (11, 13, 15) with t1.
+(d.) Return maximmum and minimum from this given tuple.
 
 
 
 
-# program 13
+
+
+# program 12
 ## WAP to accept a name from the user .Raise and handle appropriate exceptions(s) if the text entered by the user contains digits and/or special characters .
 ## code 
 ![WhatsApp Image 2024-11-07 at 7 57 09 PM (1)](https://github.com/user-attachments/assets/3472595d-babc-4802-9fdb-9dfe6ca7688e)
+
+
+
+
 
