@@ -38,3 +38,5 @@ Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 # program 13
 ## WAP to accept a name from the user .Raise and handle appropriate exceptions(s) if the text entered by the user contains digits and/or special characters .
 ## code 
+![WhatsApp Image 2024-11-07 at 7 57 09 PM (1)](https://github.com/user-attachments/assets/3472595d-babc-4802-9fdb-9dfe6ca7688e)
+
