@@ -49,7 +49,7 @@ Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 #4. remove all the occurence of a character from the string .
 ## code 
 
-
+![image](https://github.com/user-attachments/assets/d27e9473-e254-4656-8f30-f8fe27f8c760)
 
 
 # program 06
