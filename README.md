@@ -49,7 +49,7 @@ Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 #1. find the frequecy of a character in a string.
 ## code
 
-![image](https://github.com/user-attachments/assets/a5232a58-7aaf-493a-9eb2-463c74ba21a2)
+![image](https://github.com/user-attachments/assets/bae171de-e7ed-4404-a16f-cee8243e1ea8)
 
 
 #2. Replace a characterr by another character in the string .  
