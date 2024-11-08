@@ -41,7 +41,7 @@ oprations:
 ![WhatsApp Image 2024-11-07 at 8 24 20 PM](https://github.com/user-attachments/assets/d94f563a-b46c-4c1c-a873-400a62b12f77)
 
 ![WhatsApp Image 2024-11-07 at 8 31 56 PM](https://github.com/user-attachments/assets/63c82aae-dba0-4a2f-8946-e0ee7af22536)
-
+"C:\Users\acer\AppData\Local\Temp\MicrosoftEdgeDownloads\7ab53ae6-8440-4fb8-b599-7cb58f7e7725\WhatsApp Image 2024-11-07 at 8.36.50 PM.jpeg"
 # program 12
 ## WAP to accept a name from the user .Raise and handle appropriate exceptions(s) if the text entered by the user contains digits and/or special characters .
 ## code 
