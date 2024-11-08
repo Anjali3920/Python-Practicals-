@@ -36,7 +36,15 @@ Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 
 ![image](https://github.com/user-attachments/assets/cbf7b0d5-e160-4e74-a7d7-2ff12e459f44)
 
-#2.
+#2. Replace a characterr by another character in the string .  
+## code
+
+![image](https://github.com/user-attachments/assets/884adab0-4c00-4c19-b8a6-1b9e21e29218)
+
+#3.
+## code 
+
+
 
 # program 06
 ## WAP to swap the first n characters of two strings.
