@@ -29,12 +29,28 @@ b. Generate all prime numbers till 'n' Code eval(input("enter value")) for num i
 else: print(num, end=',')
 
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
+# program 03
+## 
+# Program 04
+##  WAP that accepts a character and performs the following:
+#a. print whether the character is a letter or numeric digit or a specialcharacter.
+#b. if the character is a letter, print whether the letter is uppercase or lowercase.
+#c. if the character is a numeric digit, prints its name in text 
+## code
+
+![image](https://github.com/user-attachments/assets/a5232a58-7aaf-493a-9eb2-463c74ba21a2)
+![image](https://github.com/user-attachments/assets/f6aaaffd-9940-4fd8-8125-320552987e53)
+![image](https://github.com/user-attachments/assets/e6b7b86d-b547-4d40-8025-dd32ab8c3bf2)
+![image](https://github.com/user-attachments/assets/e0b0dbc0-36b9-431a-91a0-75dcf346d158)
+
+
 # program 05
 ##  WAP to perform the following operations on a string.
 #1. find the frequecy of a character in a string.
 ## code
 
-![image](https://github.com/user-attachments/assets/cbf7b0d5-e160-4e74-a7d7-2ff12e459f44)
+![image](https://github.com/user-attachments/assets/a5232a58-7aaf-493a-9eb2-463c74ba21a2)
+
 
 #2. Replace a characterr by another character in the string .  
 ## code
