@@ -29,9 +29,16 @@ b. Generate all prime numbers till 'n' Code eval(input("enter value")) for num i
 else: print(num, end=',')
 
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
-# prpgram 06
-## Program 6. WAP to swap the first n characters of two strings.
+# program 05
+## 
+
+# program 06
+## WAP to swap the first n characters of two strings.
 ## code 
+
+![image](https://github.com/user-attachments/assets/972202de-6ecb-460e-b9c3-5fee0a71d3bf)
+
+
 
 # program 07
 ## write a function that accepts two string and returns the indices of all the occurences of the second string in the first string as a list. If the second string is not present in present in first string then it should return -1.
