@@ -1,5 +1,5 @@
 # Python-Practicals-
-# proogram 01
+# program 01
 ## WAP to find the roots of a quadratic equation.
 ## code 
 
