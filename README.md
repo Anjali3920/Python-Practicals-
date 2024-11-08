@@ -29,11 +29,17 @@ b. Generate all prime numbers till 'n' Code eval(input("enter value")) for num i
 else: print(num, end=',')
 
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
+# program 08
+## 
+# program 09
+## 
 
 
 # program 10
 ## write a function that prints a dictionary where the keys are numbers between 1 and 5 and the values are cubees of the keys.
 ## code 
+
+![WhatsApp Image 2024-11-08 at 3 44 18 PM (3)](https://github.com/user-attachments/assets/ef08d5aa-1bd3-435d-8cdb-ab1bfe7debba)
 
 # program 11
 ## Consider a tuple t1 = (1, 2, 5, 7, 9, 2, 4, 6, 8, 10) . WAP to perform following
