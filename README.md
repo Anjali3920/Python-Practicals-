@@ -29,11 +29,21 @@ b. Generate all prime numbers till 'n' Code eval(input("enter value")) for num i
 else: print(num, end=',')
 
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
+# program 07
+## write a function that accepts two string and returns the indices of all the occurences of the second string in the first string as a list. If the second string is not present in present in first string then it should return -1.
+## code
+
+
 # program 08
-## 
+## WaP to create a list of only the even integers appearing in the input list(may have elements of other types) using for loop and list comprehension. 
+## code 
+
+![WhatsApp Image 2024-11-08 at 4 01 35 PM](https://github.com/user-attachments/assets/d58272f5-ec7e-4f0a-ad55-13bf9e8ebe0a)
+
+
 # program 09
 ## 
-
+## code 
 
 # program 10
 ## write a function that prints a dictionary where the keys are numbers between 1 and 5 and the values are cubees of the keys.
