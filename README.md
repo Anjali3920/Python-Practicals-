@@ -30,8 +30,17 @@ else: print(num, end=',')
 
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
 # program 02
-##
+## WAP to accept a number 'n' to compute the following.
 ## code
+#a. check whether 'n' is prime or not.
+
+![image](https://github.com/user-attachments/assets/290b923f-38ff-41be-94d7-eb31276ed9b2)
+
+#b. Generate all prime no. till 'n'.
+
+![image](https://github.com/user-attachments/assets/c3c13b8a-ce26-41f6-8fcd-8245d71af108)
+
+
 
 
 # program 03
