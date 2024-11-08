@@ -33,6 +33,7 @@ Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 ## WAP to create a pyramid of the character (*) and a reverse pyramid. 
 ## code 
 
+![image](https://github.com/user-attachments/assets/48ed7b03-e729-4133-bba9-2df5e927d640)
 
 
 # Program 04
