@@ -29,6 +29,11 @@ b. Generate all prime numbers till 'n' Code eval(input("enter value")) for num i
 else: print(num, end=',')
 
 Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73,79,83,89,97,
+# program 02
+##
+## code
+
+
 # program 03
 ## WAP to create a pyramid of the character (*) and a reverse pyramid. 
 ## code 
