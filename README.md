@@ -34,8 +34,11 @@ Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 # Program 04
 ##  WAP that accepts a character and performs the following:
 #a. print whether the character is a letter or numeric digit or a specialcharacter.
+
 #b. if the character is a letter, print whether the letter is uppercase or lowercase.
-#c. if the character is a numeric digit, prints its name in text 
+
+#c. if the character is a numeric digit, prints its name in text .
+
 ## code
 
 ![image](https://github.com/user-attachments/assets/a5232a58-7aaf-493a-9eb2-463c74ba21a2)
