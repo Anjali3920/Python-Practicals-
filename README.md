@@ -3,8 +3,7 @@
 ## WAP to find the roots of a quadratic equation.
 ## code 
 
-
-
+![image](https://github.com/user-attachments/assets/9d371c23-3de0-42fc-b2c3-b8c49b86959c)
 
 # program 02
 ## WAP to accept a number 'n' to compute the following.
