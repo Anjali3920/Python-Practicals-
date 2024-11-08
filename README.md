@@ -41,8 +41,14 @@ Output enter value 100 2,3,5,7,11,13,17,19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 
 ![image](https://github.com/user-attachments/assets/884adab0-4c00-4c19-b8a6-1b9e21e29218)
 
-#3.
+#3. Remove the first occurence of a character in a string .
 ## code 
+
+![image](https://github.com/user-attachments/assets/7175b1fb-4e03-4dba-b76b-cfadfdfec676)
+
+#4. remove all the occurence of a character from the string .
+## code 
+
 
 
 
