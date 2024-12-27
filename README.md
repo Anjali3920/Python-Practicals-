@@ -15,6 +15,21 @@
 #b. Generate all prime no. till 'n'.
 
 ![image](https://github.com/user-attachments/assets/c3c13b8a-ce26-41f6-8fcd-8245d71af108)
+## c. generate first 'n' prime numbers
+
+
+
+![Screenshot 2024-11-07 131319](https://github.com/user-attachments/assets/019f4a6a-8baf-4254-ae80-0cc8b9ba443f)
+
+
+### d. calculate the summ of first 'n' natural numberws.
+
+
+
+
+![Screenshot 2024-11-07 132054](https://github.com/user-attachments/assets/262fb515-ef5b-405d-bd72-167353996637)
+
+
 
 
 # program 03
